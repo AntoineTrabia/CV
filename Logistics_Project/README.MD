@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to optimize the logistics of the Formula 1 championship, with a focus on reducing carbon emissions and operational costs associated with race scheduling and transportation, while taking into account various realistic constraints, such as race scheduling rules and biding contracts, travel times between locations, the availability of different transportation modes (plane, ship, truck), climatic conditions and more, ensuring that the proposed solutions are feasible.
+This project consisted of optimizing the logistics of the Formula 1 championship, with a focus on reducing carbon emissions and operational costs associated with race scheduling and transportation, while taking into account various realistic constraints, such as race scheduling rules and biding contracts, travel times between locations, the availability of different transportation modes (plane, ship, truck), climatic conditions and more, ensuring that the proposed solutions are feasible.
 
 ### Files:
 1. **Formula_One_Logistics_Code.ipynb**: Jupyter Notebook with the optimization code using the Traveling Salesman Problem (TSP) and CO2 minimization techniques.

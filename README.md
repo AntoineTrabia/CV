@@ -11,3 +11,4 @@ This project consisted of two elements:
 This project consisted of optimizing the logistics of the Formula 1 championship, with a focus on reducing carbon emissions and operational costs associated with race scheduling and transportation, while taking into account various realistic constraints, such as race scheduling rules and biding contracts, travel times between locations, the availability of different transportation modes (plane, ship, truck), climatic conditions and more, ensuring that the proposed solutions are feasible.
 
 ## Project 3: Data Science Project 
+In short, in this project, you will find a global analysis of how surface temperature change has influenced potato crop yield since 1970.

@@ -1,4 +1,4 @@
-# GitHub CV
+# GitHub Portfolio
 
 Welcome to my CV folder! This repository showcases some of my past projects to demonstrate my skills and experience in programming & data science. 
 
